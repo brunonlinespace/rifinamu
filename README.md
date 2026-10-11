@@ -8,7 +8,7 @@
   </a>
 </p>
 
-# Rico Plus
+# RicaSpaco
 
 **Friendly. Fast. Focused.**
 
