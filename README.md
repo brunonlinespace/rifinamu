@@ -8,7 +8,7 @@
   </a>
 </p>
 
-# RicaSpaco
+# RlinPanel
 
 **Friendly. Fast. Focused.**
 
