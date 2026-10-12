@@ -16,7 +16,7 @@ Rico Plus is a workspace-scale Rich Text Format editor built around Ricopad's st
 
 Current release: **0.0.3**
 
-Repository: <https://github.com/brunonlinespace/rico-plus>
+Repository: <https://github.com/brunonlinespace/rifinamu>
 
 ## What Rico Plus is
 
