@@ -8,7 +8,7 @@
   </a>
 </p>
 
-# RlinSpace
+# RifiNamu
 
 **Friendly. Fast. Focused.**
 
