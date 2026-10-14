@@ -8,7 +8,7 @@
   </a>
 </p>
 
-# RuykoDesk
+# RwpynDesk
 
 **Friendly. Fast. Focused.**
 
