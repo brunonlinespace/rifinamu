@@ -8,7 +8,7 @@
   </a>
 </p>
 
-# RwpynDesk
+# RiqatonyDesk
 
 **Friendly. Fast. Focused.**
 
